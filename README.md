@@ -15,7 +15,7 @@ The dataset provided for this challenge includes over 3 million rows with 136 co
 - **Training Set (`X_train_Hi5.csv`)**  
   - Contains approximately 2,800,000 rows.  
   - Covers data from 2020 to 2023, excluding the summer months (June, July, August, September) of 2022 and 2023.  
-  -The training set is hosted externally due to size constraints. You can download it from [Google Drive](https://drive.google.com/file/d/1J_QyJi7JSlMB2uFVOpk8UB8fsgouApUH/view?usp=drive_link)
+  -The training set is hosted externally due to size constraints. You can download it from [Google Drive](https://drive.google.com/file/d/1j8FpE_az4RYKZi6MQ3CtTTYgHKp1CMCZ/view?usp=drive_link)
   - Contains approximately 600,000 rows.  
   - Includes data for the summer months (June, July, August, September) of 2022 and 2023.
 
